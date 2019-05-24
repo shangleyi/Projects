@@ -16,3 +16,8 @@ Due Wednesday, June 12th @ 11:59 pm (Finals Week)
 
 * [Proposal](https://docs.google.com/document/d/1_M0Zajd00s9r8RNFTWruqngJm0NTHawOqCMWib9C9ys/edit?usp=sharing)
 * [Final Project](https://github.com/COGS108/Projects/blob/master/FinalProject.ipynb)
+
+## Changes made
+2019/5/24
+1. Originally education level is dropped, now recovered. Instead race is dropped.
+The new dataset has 40 columns.
